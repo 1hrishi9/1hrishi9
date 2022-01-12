@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1hrishi9&label=Profile%20views&color=0e75b6&style=flat" alt="1hrishi9" /> </p>
 
-- 🔭 I’m currently working on **this page https://1hrishi9.github.**
+- 🔭 I’m currently working on **this page https://1hrishi9.github.io/Naruto-Shippuden/**
 
 - 🌱 I’m currently learning **React**
 
