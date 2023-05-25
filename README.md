@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **this page https://1hrishi9.github.io/Naruto-Shippuden/**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Linux , AWS , DevOps**
 
 - 💬 Ask me about **Web development**
 
