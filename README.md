@@ -28,7 +28,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40" />
 </a> <a href="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" target="_blank" rel="noreferrer">
-  <img src="https://path-to-linux-icon.svg" alt="Linux" width="40" height="40" />
+  <img src="https://brandeps.com/logo-download/L/Linux-logo-vector-01.svg" alt="Linux" width="40" height="40" />
 </a>
 <a href="https://git-website-url" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" height="40" />
@@ -40,10 +40,10 @@
   <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" width="40" height="40" />
 </a>
 <a href="https://terraform-website-url" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="40" height="40" />
+  <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/terraform.svg" alt="Terraform" width="40" height="40" />
 </a>
 <a href="https://kubernetes-website-url" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" alt="Kubernetes" width="40" height="40" />
+  <img src="https://brandeps.com/logo-download/K/Kubernets-logo-vector-01.svg" alt="Kubernetes" width="40" height="40" />
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
