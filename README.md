@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Linux , AWS , DevOps**
 
-- 💬 Ask me about **AWS , DevOps tool , Linux **
+- 💬 Ask me about **AWS , DevOps tool , Linux**
 
 - 📫 How to reach me **hrishikeshberad15@gmail.com**
 
