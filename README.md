@@ -24,7 +24,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
+<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://path-to-aws-icon.svg" alt="AWS" width="40" height="40" />
 </a> <a href="https://linux-website-url" target="_blank" rel="noreferrer">
   <img src="https://path-to-linux-icon.svg" alt="Linux" width="40" height="40" />
@@ -33,7 +34,7 @@
   <img src="https://path-to-git-icon.svg" alt="Git" width="40" height="40" />
 </a>
 <a href="https://jenkins-website-url" target="_blank" rel="noreferrer">
-  <img src="https://path-to-jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fjenkins-vector-logo-4531.html&psig=AOvVaw2vw7I97DDLX6NdkreI5TVh&ust=1698088626574000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD_r52vioIDFQAAAAAdAAAAABAI" alt="Jenkins" width="40" height="40" />
 </a>
 <a href="https://docker-website-url" target="_blank" rel="noreferrer">
   <img src="https://path-to-docker-icon.svg" alt="Docker" width="40" height="40" />
