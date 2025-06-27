@@ -48,4 +48,9 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1hrishi9&" alt="1hrishi9" /></p>
+<p>
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1hrishi9&theme=dark&border_radius=5" alt="1hrishi9 GitHub Streak" />
+  </a>
+</p>
+
